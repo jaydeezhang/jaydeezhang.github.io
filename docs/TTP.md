@@ -17,7 +17,7 @@ Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new
 - [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
   - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
 
-## 战略性思维强调全局观
+## 战略性思维强调全局观1
 
 战略性思维强调全局观，从整体性的视角探究行业去判断和定位当前业务在行业中的情况，帮助理解业务全局和业务所在的时期和阶段来判断整体价值和可能达到的效果如何，使用这个方法可以避免被产品团队牵引而失去自我判断。
 
